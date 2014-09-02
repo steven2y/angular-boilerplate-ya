@@ -1,32 +1,34 @@
 {
-    "name": "angular-boilerplate-ya",
-    "version": "0.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "grunt unit"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/steven2y/angular-boilerplate-ya.git"
-    },
-    "keywords": [
-        "angular"
-    ],
-    "author": "steven2y",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/steven2y/angular-boilerplate-ya/issues"
-    },
-    "homepage": "https://github.com/steven2y/angular-boilerplate-ya",
-    "devDependencies": {
-        "bower": "~1.3.9",
-        "grunt": "~0.4.5",
-        "grunt-cli": "^0.1.13",
-        "grunt-karma": "~0.8.3",
-        "karma-jasmine": "^0.2.2",
-        "karma-phantomjs-launcher": "^0.1.4",
-        "karma-requirejs": "^0.2.2",
-        "load-grunt-tasks": "^0.6.0"
-    }
+  "name": "angular-boilerplate-ya",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steven2y/angular-boilerplate-ya.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "steven2y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven2y/angular-boilerplate-ya/issues"
+  },
+  "homepage": "https://github.com/steven2y/angular-boilerplate-ya",
+  "devDependencies": {
+    "bower": "~1.3.9",
+    "express": "^4.8.7",
+    "grunt": "~0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-express-server": "^0.4.19",
+    "grunt-karma": "~0.8.3",
+    "karma-jasmine": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-requirejs": "^0.2.2",
+    "load-grunt-tasks": "^0.6.0"
+  }
 }
