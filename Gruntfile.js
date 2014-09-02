@@ -15,6 +15,10 @@ module.exports = function(grunt) {
         'karma:once'
     ]);
 
+    grunt.registerTask('cucumber', [
+        'protractor:cuke'
+    ]);
+
     grunt.registerTask('serve', [
         'express:dev'
     ]);
