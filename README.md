@@ -7,8 +7,8 @@ Also it was good excercise to muck around with AngularJs and RequireJS.
 Dependencies
 -------------
 You will need 
-node
-npm
+* node
+* npm
 maybe nvm if you want to manage your version of node
 
 
