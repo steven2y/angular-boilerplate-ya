@@ -26,9 +26,11 @@ You'll need to host the files somehow for this so I have set up a small node/exp
 grunt serve
 ```
 
-You will need the selenium jar file located here 
+You will need the selenium jar file located here.
+
 http://selenium-release.storage.googleapis.com/2.42/selenium-server-standalone-2.42.2.jar
-this needs to be placed alongside this repo.  NOT within it.
+
+This needs to be placed alongside this repo.  NOT within it. Currently using version 2.42.2.jar if you want to use a different version change here https://github.com/steven2y/angular-boilerplate-ya/blob/master/test/conf/cuke.protractor.conf.js#L3
 
 To run the test use
 
