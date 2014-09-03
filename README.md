@@ -9,7 +9,7 @@ Dependencies
 You will need 
 * node
 * npm
-maybe nvm if you want to manage your version of node
+* (optional) nvm if you want to manage your version of node
 
 
 
