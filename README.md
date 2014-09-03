@@ -4,6 +4,14 @@ angular-boilerplate-ya
 Yep another angular boiler plate with tdd and bdd.  As I am a fan of TDD, it also includes sample testing of a controller and BDD cucumber js testing via protractor.
 Also it was good excercise to muck around with AngularJs and RequireJS.
 
+The structure is loosely based on the fractal hierarchy published here 
+
+https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
+
+Here the views/controllers/services are grouped together with their own components.  Instead of having generic controller, view and service dirs.
+
+
+
 Dependencies
 -------------
 You will need 
