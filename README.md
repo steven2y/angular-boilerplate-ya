@@ -4,6 +4,15 @@ angular-boilerplate-ya
 Yep another angular boiler plate with tdd and bdd.  As I am a fan of TDD, it also includes sample testing of a controller and BDD cucumber js testing via protractor.
 Also it was good excercise to muck around with AngularJs and RequireJS.
 
+Dependencies
+-------------
+You will need 
+node
+npm
+maybe nvm if you want to manage your version of node
+
+
+
 Installation
 -------------
 ```
